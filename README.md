@@ -1,5 +1,7 @@
 Read the Chapters 📖
-In HTML & CSS, read:
+In HTML & CSS: Design and Build Websites
+Duckett, Jon
+2011; Newark: Wiley, read:
 
 Chapter 1 - Structure
 
